@@ -18,8 +18,7 @@ pdflatex main.tex
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot 1" src="LaTeX_template_for_a_CV_resume.pdf" width="400">
-    <img alt="Screenshot 2" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_2.jpg" width="400">
+    <img alt="Screenshot" src="Screenshot.png" width="400">
 </p>
 
 
